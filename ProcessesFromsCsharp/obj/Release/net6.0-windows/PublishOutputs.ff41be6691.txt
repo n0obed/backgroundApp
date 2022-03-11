@@ -1,0 +1,11 @@
+D:\Apps\VisualStudio\source\repos\ProcessesFromsCsharp\bin\Release\net6.0-windows\publish\ProcessesFromsCsharp.exe
+D:\Apps\VisualStudio\source\repos\ProcessesFromsCsharp\bin\Release\net6.0-windows\publish\ProcessesFromsCsharp.dll
+D:\Apps\VisualStudio\source\repos\ProcessesFromsCsharp\bin\Release\net6.0-windows\publish\ProcessesFromsCsharp.deps.json
+D:\Apps\VisualStudio\source\repos\ProcessesFromsCsharp\bin\Release\net6.0-windows\publish\ProcessesFromsCsharp.runtimeconfig.json
+D:\Apps\VisualStudio\source\repos\ProcessesFromsCsharp\bin\Release\net6.0-windows\publish\ProcessesFromsCsharp.pdb
+D:\Apps\VisualStudio\source\repos\ProcessesFromsCsharp\bin\Release\net6.0-windows\publish\System.Management.dll
+D:\Apps\VisualStudio\source\repos\ProcessesFromsCsharp\bin\Release\net6.0-windows\publish\System.Configuration.Install.dll
+D:\Apps\VisualStudio\source\repos\ProcessesFromsCsharp\bin\Release\net6.0-windows\publish\Microsoft.JScript.dll
+D:\Apps\VisualStudio\source\repos\ProcessesFromsCsharp\bin\Release\net6.0-windows\publish\System.Management.xml
+D:\Apps\VisualStudio\source\repos\ProcessesFromsCsharp\bin\Release\net6.0-windows\publish\System.Configuration.Install.xml
+D:\Apps\VisualStudio\source\repos\ProcessesFromsCsharp\bin\Release\net6.0-windows\publish\Microsoft.JScript.xml
